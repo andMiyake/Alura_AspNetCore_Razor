@@ -1,0 +1,16 @@
+﻿<div class="hero-unit">
+    <h2>Queima de Estoque</h2>
+    <p>
+        Promoção na sessão de monitores!
+    </p>
+    <div class="row-fluid">
+        @foreach (var produto in ViewBag.Produtos)
+        {
+            <div class="span4">
+                <h2>@produto.Nome</h2>
+                <p>@produto.Descricao</p>
+                <p>@produto.Preco</p>
+            </div>
+        }
+    </div>
+</div>

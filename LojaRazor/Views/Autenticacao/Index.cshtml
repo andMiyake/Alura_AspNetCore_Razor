@@ -1,0 +1,29 @@
+﻿<div class="hero-unit span6">
+    
+    <h2>Login</h2>
+
+    <p>Já Possui Cadastro? Então faça seu login</p>
+    <form action="@Url.Action("Autentica", "Autenticacao")">
+        <input type="text" class="input-block-level" placeholder="E-mail" required/>
+
+        <input type="password" class="input-block-level" placeholder="Senha" required/>
+
+        <input type="submit" class="btn btn-large btn-primary" value="Fazer Login" />
+    </form>
+</div>
+
+<div class="hero-unit span6">
+    <h2>Novo Usuário?</h2>
+
+    <p>Se você ainda não tem um cadastro, informe qual é o e-mail que você deseja associar com sua conta</p>
+
+    <form action="@Url.Action("Form", "Usuarios")">
+        <input type="text" class="input-block-level" placeholder="E-mail" name="Email"/>
+
+        <input type="submit" class="btn btn-large btn-primary" value="Criar Conta" />
+    </form>
+</div>
+
+@section Scripts {
+    @Scripts.Render("~/bundles/scripts")
+}

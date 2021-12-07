@@ -1,0 +1,26 @@
+﻿@using LojaRazor.Internacionalizacao
+
+<div class="navbar navbar-fixed-top">
+    <div class="navbar-inner">
+        @Html.ActionLink("Loja Razor", "Index", "Home", null, new { @class = "brand" })
+        <ul class="nav">
+            <li>@Html.ActionLink(Mensagens.Sobre, "About", "Home")</li>
+            <li>@Html.ActionLink(Mensagens.Contato, "Contato", "Home")</li>
+        </ul>
+        <p class="navbar-text pull-right">
+            @if (Session["usuarioLogado"] != null)
+            {
+                @Mensagens.BemVindo
+                @Session["usuarioLogado"]
+                @Html.ActionLink(Mensagens.Logout, "Logout", "Autenticacao")
+            }
+            else
+            {
+                @Mensagens.OlaVisitante
+                @Html.ActionLink(Mensagens.Login, "Index", "Autenticacao")
+                @Mensagens.Ou
+                @Html.ActionLink(Mensagens.CadastreSe, "Form", "Usuarios")
+            }
+        </p>
+    </div>
+</div>

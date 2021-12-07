@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<hmtl>
+    <head>
+        @Styles.Render("~/bundle/estilos")
+    </head>
+    <body>
+        @*View Parcial*@
+        @Html.Partial("_MenuSuperior")
+
+        <div class="container-fluid">
+            <div class="row-fluid">
+                <div class="span3">
+                    @Html.Action("Index", "Menu")
+                </div>
+                <div class="span9">
+                    @RenderBody()
+                </div>
+            </div>
+        </div>
+
+        @RenderSection("Scripts", false)
+    </body>
+</hmtl>

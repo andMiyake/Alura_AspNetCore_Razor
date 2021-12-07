@@ -1,0 +1,67 @@
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\LojaRazor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\LojaRazor.pdb
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Antlr3.Runtime.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\EntityFramework.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Newtonsoft.Json.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Mvc.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Optimization.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Providers.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Razor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\WebGrease.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\EntityFramework.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\Newtonsoft.Json.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Mvc.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.Razor.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csprojResolveAssemblyReference.cache
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.dll
+C:\Users\victor\Documents\Alura\LojaRazor\LojaRazor\obj\Debug\LojaRazor.pdb
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\LojaRazor.dll.config
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\LojaRazor.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\LojaRazor.pdb
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\Antlr3.Runtime.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\EntityFramework.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\Newtonsoft.Json.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Http.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Mvc.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Optimization.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Providers.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Razor.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\WebGrease.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\EntityFramework.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\Newtonsoft.Json.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Net.Http.Formatting.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Http.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Http.WebHost.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Mvc.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.Razor.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.Deployment.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\System.Web.WebPages.Razor.xml
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csprojAssemblyReference.cache
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csproj.CopyComplete
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.pdb
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.resources
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.csproj.GenerateResource.cache
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\bin\en-us\LojaRazor.resources.dll
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\LojaRazor.Internacionalizacao.Mensagens.en-us.resources
+C:\Users\319013\Documents\Visual Studio Projects\LojaRazor\LojaRazor\obj\Debug\en-us\LojaRazor.resources.dll

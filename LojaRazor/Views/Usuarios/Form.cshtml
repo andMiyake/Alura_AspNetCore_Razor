@@ -1,0 +1,70 @@
+﻿@*Indicando qual o tipo do objeto do @Model - View fortemente tipada*@
+@model LojaRazor.Models.Usuario
+
+@using (Html.BeginForm("Cadastra", "Usuarios", FormMethod.Post))
+{
+    <fieldset>
+        <legend>Dados Pessoais</legend>
+
+        @Html.LabelFor(usuario => usuario.Nome, "Nome:")
+        @Html.TextBoxFor(usuario => usuario.Nome)
+        @Html.ValidationMessageFor(usuario => usuario.Nome)
+
+        @Html.LabelFor(u => u.Email, "Email:")
+        @Html.TextBoxFor(u => u.Email)
+        @Html.ValidationMessageFor(u => u.Email)
+
+        @Html.LabelFor(u => u.Senha, "Senha:")
+        @Html.PasswordFor(u => u.Senha)
+        @Html.ValidationMessageFor(u => u.Senha)
+
+        @Html.LabelFor(u => u.DataDeNascimento, "Data de Nascimento:")
+        @Html.TextBoxFor(u => u.DataDeNascimento)
+        @Html.ValidationMessageFor(u => u.DataDeNascimento)
+
+        <div class="control-group">
+            <label class="inline radio">
+                @Html.RadioButtonFor(u => u.Sexo, LojaRazor.Models.Sexo.Masculino)
+                Masculino
+            </label>
+
+            <label class="inline radio">
+                @Html.RadioButtonFor(u => u.Sexo, LojaRazor.Models.Sexo.Feminino)
+                Feminino
+            </label>
+        </div>
+    </fieldset>
+
+    <fieldset>
+        <legend>Dados de Entrega</legend>
+
+        @Html.LabelFor(u => u.Endereco, "Endereço:")
+        @Html.TextBoxFor(u => u.Endereco)
+        @Html.ValidationMessageFor(u => u.Endereco)
+
+        @Html.LabelFor(u => u.Complemento, "Complemento:")
+        @Html.TextBoxFor(u => u.Complemento)
+        @Html.ValidationMessageFor(u => u.Complemento)
+
+        @Html.LabelFor(u => u.CEP, "CEP:")
+        @Html.TextBoxFor(u => u.CEP)
+        @Html.ValidationMessageFor(u => u.CEP)
+
+        @Html.LabelFor(u => u.Estado, "Estado:")
+        @Html.DropDownListFor(u => u.Estado, new SelectList(Enum.GetValues(typeof(LojaRazor.Models.Estado))))
+
+        @Html.LabelFor(u => u.Observacoes, "Observações")
+        @Html.TextAreaFor(u => u.Observacoes)
+        @Html.ValidationMessageFor(u => u.Observacoes)
+    </fieldset>
+    <div>
+        @Html.CheckBoxFor(u => u.RecebePromocoes)
+        Desejo receber informações sobre promoções
+    </div>
+
+    <input type="submit" value="Cadastrar" class="btn btn-large" />
+}
+
+@section Scripts{
+    @Scripts.Render("~/bundles/scripts")
+}
